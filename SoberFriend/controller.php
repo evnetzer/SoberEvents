@@ -20,8 +20,7 @@
 	
 	if($method == 'save_user') {
 		SaveUser();	
-	}
-	else if($method =="verify_users"){
+	}else if($method =="verify_users"){
 		verifyUsers();
 	}else if ($method == "save_profile"){
 		SaveProfile();
@@ -177,9 +176,6 @@
 		
 	}
 	
-	
-	//loading all contents from user (many matches)..
-	//only returning 1st index
 	function LoadContent(){
 		$x=array();
 		for($i=1; $i<7; $i++){
@@ -201,10 +197,8 @@
 					$content=$content->ToAssocArray();
 					$mergedElement = $event + $content;
 					$array[] = $mergedElement;
-					//$array[] = $content;
 				}
-				//echo(json_encode($array[0]));
-				$x[]=$array[0];//STUPID!!
+				$x[]=$array[0];
 			}else {
 				echo(0);
 			}
