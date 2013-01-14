@@ -1,0 +1,251 @@
+10
+
+dir
+35
+svn://jnetz.dyndns-server.com:8080/eecs497/chtrbox/script/dojo_1.6.1/dojox/atom/widget/nls
+svn://jnetz.dyndns-server.com:8080/eecs497
+
+
+
+2012-01-12T00:32:57.982290Z
+2
+henry
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c2c6886f-2370-42d6-ba69-d81440759b24
+
+FeedEntryEditor.js
+file
+
+
+
+
+2012-02-20T02:16:26.000000Z
+20825a65c1643ef1ec502b1289cc330c
+2012-01-12T00:32:57.982290Z
+2
+henry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+76
+
+FeedEntryViewer.js
+file
+
+
+
+
+2012-02-20T02:16:27.000000Z
+2639f5c7419fd48a76d349fc9cb14307
+2012-01-12T00:32:57.982290Z
+2
+henry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+204
+
+FeedViewerEntry.js
+file
+
+
+
+
+2012-02-20T02:16:27.000000Z
+67eecde299d50c6f02a961fb4c9ab48b
+2012-01-12T00:32:57.982290Z
+2
+henry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31
+
+PeopleEditor.js
+file
+
+
+
+
+2012-02-20T02:16:26.000000Z
+e8f693d4c0524598e89cce2ad4b02660
+2012-01-12T00:32:57.982290Z
+2
+henry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+79
+
+ar
+dir
+
+ca
+dir
+
+cs
+dir
+
+da
+dir
+
+de
+dir
+
+el
+dir
+
+es
+dir
+
+fi
+dir
+
+fr
+dir
+
+he
+dir
+
+hu
+dir
+
+it
+dir
+
+ja
+dir
+
+kk
+dir
+
+ko
+dir
+
+nb
+dir
+
+nl
+dir
+
+pl
+dir
+
+pt
+dir
+
+pt-pt
+dir
+
+ro
+dir
+
+ru
+dir
+
+sk
+dir
+
+sl
+dir
+
+sv
+dir
+
+th
+dir
+
+tr
+dir
+
+zh
+dir
+
+zh-tw
+dir
+

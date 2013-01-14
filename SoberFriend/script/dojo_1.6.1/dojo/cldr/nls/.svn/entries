@@ -1,0 +1,337 @@
+10
+
+dir
+35
+svn://jnetz.dyndns-server.com:8080/eecs497/chtrbox/script/dojo_1.6.1/dojo/cldr/nls
+svn://jnetz.dyndns-server.com:8080/eecs497
+
+
+
+2012-01-12T00:32:57.982290Z
+2
+henry
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c2c6886f-2370-42d6-ba69-d81440759b24
+
+ar
+dir
+
+buddhist.js
+file
+
+
+
+
+2012-02-20T02:16:58.000000Z
+cc448667d5aad89b1c3de83f25e2ccf7
+2012-01-12T00:32:57.982290Z
+2
+henry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3951
+
+ca
+dir
+
+cs
+dir
+
+currency.js
+file
+
+
+
+
+2012-02-20T02:16:59.000000Z
+9029b0e346e31abf006e2a6fc479005b
+2012-01-12T00:32:57.982290Z
+2
+henry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+673
+
+da
+dir
+
+de
+dir
+
+el
+dir
+
+en
+dir
+
+en-au
+dir
+
+en-ca
+dir
+
+en-gb
+dir
+
+es
+dir
+
+fi
+dir
+
+fr
+dir
+
+fr-ch
+dir
+
+gregorian.js
+file
+
+
+
+
+2012-02-20T02:16:51.000000Z
+4c877e195b3a31b16c7f2e8bb7b80668
+2012-01-12T00:32:57.982290Z
+2
+henry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4510
+
+he
+dir
+
+hebrew.js
+file
+
+
+
+
+2012-02-20T02:16:51.000000Z
+f323206b1386420380aea649ad0eba81
+2012-01-12T00:32:57.982290Z
+2
+henry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4338
+
+hu
+dir
+
+islamic.js
+file
+
+
+
+
+2012-02-20T02:16:52.000000Z
+7526146c22ce62dbb07e09b35a0dd370
+2012-01-12T00:32:57.982290Z
+2
+henry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4186
+
+it
+dir
+
+ja
+dir
+
+ko
+dir
+
+nb
+dir
+
+nl
+dir
+
+number.js
+file
+
+
+
+
+2012-02-20T02:16:59.000000Z
+2ee53c3df0322c2c5e7510254e57b620
+2012-01-12T00:32:57.982290Z
+2
+henry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1256
+
+pl
+dir
+
+pt
+dir
+
+pt-pt
+dir
+
+ro
+dir
+
+ru
+dir
+
+sk
+dir
+
+sl
+dir
+
+sv
+dir
+
+th
+dir
+
+tr
+dir
+
+zh
+dir
+
+zh-hant
+dir
+
+zh-hk
+dir
+
+zh-tw
+dir
+

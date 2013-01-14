@@ -1,0 +1,149 @@
+10
+
+dir
+35
+svn://jnetz.dyndns-server.com:8080/eecs497/chtrbox/script/dojo_1.6.1/dojox/form/nls
+svn://jnetz.dyndns-server.com:8080/eecs497
+
+
+
+2012-01-12T00:32:57.982290Z
+2
+henry
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c2c6886f-2370-42d6-ba69-d81440759b24
+
+PasswordValidator.js
+file
+
+
+
+
+2012-02-20T02:16:32.000000Z
+64eee0183921500704e6002ba9db9f8f
+2012-01-12T00:32:57.982290Z
+2
+henry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+99
+
+ar
+dir
+
+ca
+dir
+
+cs
+dir
+
+da
+dir
+
+de
+dir
+
+el
+dir
+
+es
+dir
+
+fi
+dir
+
+fr
+dir
+
+he
+dir
+
+hu
+dir
+
+it
+dir
+
+ja
+dir
+
+kk
+dir
+
+ko
+dir
+
+nb
+dir
+
+nl
+dir
+
+pl
+dir
+
+pt
+dir
+
+pt-pt
+dir
+
+ro
+dir
+
+ru
+dir
+
+sk
+dir
+
+sl
+dir
+
+sv
+dir
+
+th
+dir
+
+tr
+dir
+
+zh
+dir
+
+zh-tw
+dir
+

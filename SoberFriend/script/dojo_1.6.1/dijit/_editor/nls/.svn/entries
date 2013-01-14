@@ -1,0 +1,217 @@
+10
+
+dir
+35
+svn://jnetz.dyndns-server.com:8080/eecs497/chtrbox/script/dojo_1.6.1/dijit/_editor/nls
+svn://jnetz.dyndns-server.com:8080/eecs497
+
+
+
+2012-01-12T00:32:57.982290Z
+2
+henry
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c2c6886f-2370-42d6-ba69-d81440759b24
+
+FontChoice.js
+file
+
+
+
+
+2012-02-20T02:13:42.000000Z
+93380061d160cf88e9ce36944bab4ad0
+2012-01-12T00:32:57.982290Z
+2
+henry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+816
+
+LinkDialog.js
+file
+
+
+
+
+2012-02-20T02:13:46.000000Z
+9c5281eec0441c2474bc867f9023a317
+2012-01-12T00:32:57.982290Z
+2
+henry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+687
+
+ar
+dir
+
+ca
+dir
+
+commands.js
+file
+
+
+
+
+2012-02-20T02:13:48.000000Z
+77582c247c86ce4f0a2bf745e63cf963
+2012-01-12T00:32:57.982290Z
+2
+henry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1899
+
+cs
+dir
+
+da
+dir
+
+de
+dir
+
+el
+dir
+
+es
+dir
+
+fi
+dir
+
+fr
+dir
+
+he
+dir
+
+hu
+dir
+
+it
+dir
+
+ja
+dir
+
+kk
+dir
+
+ko
+dir
+
+nb
+dir
+
+nl
+dir
+
+pl
+dir
+
+pt
+dir
+
+pt-pt
+dir
+
+ro
+dir
+
+ru
+dir
+
+sk
+dir
+
+sl
+dir
+
+sv
+dir
+
+th
+dir
+
+tr
+dir
+
+zh
+dir
+
+zh-tw
+dir
+

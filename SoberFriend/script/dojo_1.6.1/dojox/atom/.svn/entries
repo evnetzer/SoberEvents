@@ -1,0 +1,71 @@
+10
+
+dir
+35
+svn://jnetz.dyndns-server.com:8080/eecs497/chtrbox/script/dojo_1.6.1/dojox/atom
+svn://jnetz.dyndns-server.com:8080/eecs497
+
+
+
+2012-01-12T00:32:57.982290Z
+2
+henry
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c2c6886f-2370-42d6-ba69-d81440759b24
+
+README
+file
+
+
+
+
+2012-02-20T02:16:31.000000Z
+afacf8a883092fdac69713f9d57c8ed0
+2012-01-12T00:32:57.982290Z
+2
+henry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1968
+
+io
+dir
+
+tests
+dir
+
+widget
+dir
+

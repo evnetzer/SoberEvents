@@ -1,0 +1,83 @@
+10
+
+dir
+35
+svn://jnetz.dyndns-server.com:8080/eecs497/chtrbox/script/dojo_1.6.1/util
+svn://jnetz.dyndns-server.com:8080/eecs497
+
+
+
+2012-01-12T00:32:57.982290Z
+2
+henry
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c2c6886f-2370-42d6-ba69-d81440759b24
+
+LICENSE
+file
+
+
+
+
+2012-02-20T02:17:18.000000Z
+3d06b14ab533a5e4f9815b5b8761eb84
+2012-01-12T00:32:57.982290Z
+2
+henry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11347
+
+buildscripts
+dir
+
+checkstyle
+dir
+
+docscripts
+dir
+
+doh
+dir
+
+jsdoc
+dir
+
+migration
+dir
+
+shrinksafe
+dir
+

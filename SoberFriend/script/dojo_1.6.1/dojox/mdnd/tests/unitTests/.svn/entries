@@ -1,0 +1,71 @@
+10
+
+dir
+35
+svn://jnetz.dyndns-server.com:8080/eecs497/chtrbox/script/dojo_1.6.1/dojox/mdnd/tests/unitTests
+svn://jnetz.dyndns-server.com:8080/eecs497
+
+
+
+2012-01-12T00:32:57.982290Z
+2
+henry
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c2c6886f-2370-42d6-ba69-d81440759b24
+
+areaManager
+dir
+
+dropIndicator
+dir
+
+dropMode
+dir
+
+module.js
+file
+
+
+
+
+2012-02-20T02:14:55.000000Z
+e626d58dcc938aadf450d3eaee481544
+2012-01-12T00:32:57.982290Z
+2
+henry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+276
+
