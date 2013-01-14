@@ -59,19 +59,6 @@ function loadEventsIAmAttending()
 	callServerPost('controller.php', {method: 'loadThisUsersEvents'}, setThisUsersEvents, 'LOADING THIS USERS EVENTS');
 }
 
-function setThisUsersEvents(jsonEvents)
-{
-	//for( var i = dojo.byId(refreshLoopHolder).value; i<jsonContent.length; i++)
-	//{
-		dojo.byId('eventsIAmAttending1').innerHTML='"' + stripslashes(jsonEvents[0].title) + '"';
-		dojo.byId('eventsIAmAttending2').innerHTML='"' + stripslashes(jsonEvents[1].title) + '"';
-		dojo.byId('eventsIAmAttending3').innerHTML='"' + stripslashes(jsonEvents[2].title) + '"';
-		dojo.byId('eventsIAmAttending4').innerHTML='"' + stripslashes(jsonEvents[3].title) + '"';
-		dojo.byId('eventsIAmAttending5').innerHTML='"' + stripslashes(jsonEvents[4].title) + '"';
-		
-	//}
-}
-
 function setThisUsersContent(jsonContent)
 {
 	dojo.attr('thisUsersName', 'innerHTML', jsonContent.name);
@@ -203,6 +190,18 @@ function setContent(jsonContent)
 	}
 }
 
+function setThisUsersEvents(jsonEvents)
+{
+	//for( var i = dojo.byId(refreshLoopHolder).value; i<jsonContent.length; i++)
+	//{
+		dojo.byId('eventsIAmAttending1').innerHTML='"' + stripslashes(jsonEvents[0].title) + '"';
+		dojo.byId('eventsIAmAttending2').innerHTML='"' + stripslashes(jsonEvents[1].title) + '"';
+		dojo.byId('eventsIAmAttending3').innerHTML='"' + stripslashes(jsonEvents[2].title) + '"';
+		dojo.byId('eventsIAmAttending4').innerHTML='"' + stripslashes(jsonEvents[3].title) + '"';
+		dojo.byId('eventsIAmAttending5').innerHTML='"' + stripslashes(jsonEvents[4].title) + '"';
+		
+	//}
+}
 
 function formatImageString($filename){
 	var txt = new String($filename);

@@ -1,121 +1,3 @@
-
-
-body {
-  margin: 0;
-  pading: 0;
-  color: #fff;
-  background-color:#A1A1A1;
-  font-size: 14px;
-
-  font-weight: bold;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  
-  
-  }
-
-#sidebarWrapper
-{
-	color: #fff;
-	background: url('bg-login.png') repeat #1b1b1b;
-	height:100%;
-	//width:23%;
-	width:420px;
-} 
-
-#title{
-	font-size: 25px;
-	color: #FFF;
-   top: 30px;
-  	left: 50px;
-  	position:absolute;
-   padding-bottom: 9px;
-	margin: 20px 0 30px;
-	border-bottom: 1px solid #eeeeee;
-  
-  }
-  
-#buttonHome
-{
-	top:170px;
-	left:140px;
-	position:absolute;
-	//width:10px;
-	//height:10px;
-
-}
-
-#buttonProfile
-{
-	top:260px;
-	left:140px;
-	position:absolute;
-	//width:10px;
-	//height:90px;
-
-}
-
-#buttonMessages
-{
-	top:350px;
-	left:140px;
-	position:absolute;
-	//width:10px;
-	//height:90px;
-
-}
-
-#buttonEvents
-{
-	top:440px;
-	left:140px;
-	position:absolute;
-	//width:10px;
-	//height:90px;
-
-}
-
-  
-#pictureWrapper
-{
-	top:100px;
-	left:500px;
-	position:absolute;
-	//width:10px;
-	//height:10px;
-
-}
-
-#wellWrapper
-{
-	top:100px;
-	left:840px;
-	position:absolute;
-	//width:10px;
-	//height:10px;
-
-}
- 
-#textInWell
-{
-	color:black;
-	//width:10px;
-	//height:10px;
-
-}
-  
-  
-#tableWrapper
-{
-	top:50%;
-	left:50%;
-}  
-
-#mainContentWrapper
-{
-	//THis is having no affect!
-}
-  
-  
   
   /*!
  * Bootstrap v2.1.1
@@ -5938,6 +5820,124 @@ a.badge:hover {
 .active {
     font-weight: bold;
 }
+
+
+
+body {
+  margin: 0;
+  pading: 0;
+  color: #fff;
+  background-color:#A1A1A1;
+  font-size: 14px;
+
+  font-weight: bold;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  
+  
+  }
+
+#sidebarWrapper
+{
+	color: #fff;
+	background: url('bg-login.png') repeat #1b1b1b;
+	height:100%;
+	//width:23%;
+	width:420px;
+} 
+
+#title{
+	font-size: 25px;
+	color: #FFF;
+   top: 30px;
+  	left: 50px;
+  	position:absolute;
+   padding-bottom: 9px;
+	margin: 20px 0 30px;
+	border-bottom: 1px solid #eeeeee;
+  
+  }
+  
+#buttonHome
+{
+	top:170px;
+	left:140px;
+	position:absolute;
+	//width:10px;
+	//height:10px;
+
+}
+
+#buttonProfile
+{
+	top:260px;
+	left:140px;
+	position:absolute;
+	//width:10px;
+	//height:90px;
+
+}
+
+#buttonMessages
+{
+	top:350px;
+	left:140px;
+	position:absolute;
+	//width:10px;
+	//height:90px;
+
+}
+
+#buttonEvents
+{
+	top:440px;
+	left:140px;
+	position:absolute;
+	//width:10px;
+	//height:90px;
+
+}
+
+  
+#pictureWrapper
+{
+	top:100px;
+	left:500px;
+	position:absolute;
+	//width:10px;
+	//height:10px;
+
+}
+
+#wellWrapper
+{
+	top:100px;
+	left:840px;
+	position:absolute;
+	//width:10px;
+	//height:10px;
+
+}
+ 
+#textInWell
+{
+	color:black;
+	//width:10px;
+	//height:10px;
+
+}
+  
+  
+#tableWrapper
+{
+	top:50%;
+	left:50%;
+}  
+
+#mainContentWrapper
+{
+	//THis is having no affect!
+}
+  
 
 
 
